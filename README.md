@@ -18,7 +18,7 @@ A dashboard is a powerful tool that consolidates and visualizes essential data i
 
          
 
-  In the dashboard cards, you can add KPIs and critical metrics...etc    
+  In the dashboard cards, you can add KPIs and critical metrics such as total calls, total employees...etc    
  Also the performance rate and SLA , so it will be easy to the management quickly recognize key insights.
 
 
@@ -32,7 +32,6 @@ and this  website help me: https://www.flaticon.com/    (thanks to Njoud).
 
 Hope you all find this helpful.
 
-Thanks,
 
 
 
